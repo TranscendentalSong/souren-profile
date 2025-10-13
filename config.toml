@@ -1,0 +1,72 @@
+baseURL = "https://souren.github.io/souren-profile/"
+languageCode = "en-us"
+title = "Souren's Journal"
+theme = "hugo-theme-stack"
+
+[pagination]
+pagerSize = 4
+path = "page"
+
+[params]
+author = { name = "Souren Ghosh", email = "souren@example.com" }
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowToc = true
+ShowShareButtons = true
+ShowCodeCopyButtons = true
+ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+Title = "👋 Welcome to Souren's Obsidian Journal"
+Content = "A collection of my thoughts, experiments, and notes — built with Hugo and Obsidian."
+
+[menu]
+
+# Home
+[[menu.main]]
+identifier = "home"
+name = "🏠 Home"
+url = "/home/"
+weight = 1
+
+# About
+[[menu.main]]
+identifier = "about"
+name = "👤 About"
+url = "/about/"
+weight = 2
+
+# Blog
+[[menu.main]]
+identifier = "blog"
+name = "📝 Blog"
+url = "/blog/"
+weight = 3
+
+# Projects
+[[menu.main]]
+identifier = "projects"
+name = "🛠 Projects"
+url = "/projects/"
+weight = 4
+
+# Labs with dropdown
+[[menu.main]]
+identifier = "labs"
+name = "🔬 Labs"
+url = "/labs/"
+weight = 5
+
+# Notes
+[[menu.main]]
+identifier = "notes"
+name = "📒 Notes"
+url = "/notes/"
+weight = 6
+
+# Contact
+[[menu.main]]
+identifier = "contact"
+name = "✉️ Contact"
+url = "/contact/"
+weight = 7

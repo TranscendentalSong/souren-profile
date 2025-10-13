@@ -1,18 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Souren&#39;s Journal</title>
-    <link>https://souren.github.io/souren.github.io/</link>
-    <description>Recent content on Souren&#39;s Journal</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://souren.github.io/souren.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://souren.github.io/souren.github.io/posts/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://souren.github.io/souren.github.io/posts/introduction/</guid>
-      <description>&lt;h1 id=&#34;-hello-i-am-souren&#34;&gt;✨ Hello, I am Souren&lt;/h1&gt;&#xA;&lt;p&gt;Hi, I’m &lt;strong&gt;Souren Ghosh&lt;/strong&gt;, hailed from Kolkata,WestBengal. I’m passionate about &lt;strong&gt;practical solutions&lt;/strong&gt; and &lt;strong&gt;contributing to society&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-drives-me&#34;&gt;What drives me&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;💡 Hands-on projects and experimentation&lt;/li&gt;&#xA;&lt;li&gt;🌱 Pragmatic approaches that actually make a difference&lt;/li&gt;&#xA;&lt;li&gt;🔬 Exploring technology, science, and innovation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;my-philosophy&#34;&gt;My Philosophy&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Ideas are only valuable when applied.”&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I strive to &lt;strong&gt;create, learn, and share knowledge&lt;/strong&gt; that helps people and society.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;connect&#34;&gt;Connect&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com&#34;&gt;YourProfile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com&#34;&gt;YourRepo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:your.email@example.com&#34;&gt;your.email@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
+    <channel>
+        <title>Souren&#39;s Journal</title>
+        <link>https://souren.github.io/souren-profile/</link>
+        <description>Recent content on Souren&#39;s Journal</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
+        <webMaster>souren@example.com (Souren Ghosh)</webMaster>
+        <lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Basic  Details and Measures</title>
+        <link>https://souren.github.io/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</link>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>https://souren.github.io/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</guid>
+        <description>&lt;p&gt;Project details go here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://souren.github.io/souren-profile/home/_index_home/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>https://souren.github.io/souren-profile/home/_index_home/</guid>
+        <description>&lt;h1 id=&#34;-hello-i-am-souren&#34;&gt;✨ Hello, I am Souren
+&lt;/h1&gt;&lt;p&gt;Hi, I’m &lt;strong&gt;Souren Ghosh&lt;/strong&gt;, hailed from Kolkata,WestBengal. I’m passionate about &lt;strong&gt;practical solutions&lt;/strong&gt; and &lt;strong&gt;contributing to society&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-drives-me&#34;&gt;What drives me
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;💡 Hands-on projects and experimentation&lt;/li&gt;
+&lt;li&gt;🌱 Pragmatic approaches that actually make a difference&lt;/li&gt;
+&lt;li&gt;🔬 Exploring technology, science, and innovation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;my-philosophy&#34;&gt;My Philosophy
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;“Ideas are only valuable when applied.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I strive to &lt;strong&gt;create, learn, and share knowledge&lt;/strong&gt; that helps people and society.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;connect&#34;&gt;Connect
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;LinkedIn: &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;YourProfile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;YourRepo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a class=&#34;link&#34; href=&#34;mailto:your.email@example.com&#34; &gt;your.email@example.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://souren.github.io/souren-profile/labs/advanced-electronics/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>https://souren.github.io/souren-profile/labs/advanced-electronics/test/</guid>
+        <description>&lt;p&gt;This page is under construction&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</guid>
+        <description>&lt;p&gt;this is basic section  lab 1&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</guid>
+        <description>&lt;p&gt;this is basic section  lab 2&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</guid>
+        <description>&lt;p&gt;this is basic section lab 3&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>About Me</title>
+        <link>https://souren.github.io/souren-profile/about/_index_about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>https://souren.github.io/souren-profile/about/_index_about/</guid>
+        <description>&lt;p&gt;Hi, I’m Souren. I love building and writing about embedded systems, electronics, and cloud architecture.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

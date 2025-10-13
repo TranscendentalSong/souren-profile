@@ -2,14 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://souren.github.io/souren.github.io/posts/introduction/</loc>
+    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://souren.github.io/souren.github.io/categories/</loc>
+    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/introductory-lab/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://souren.github.io/souren.github.io/posts/</loc>
+    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/</loc>
   </url><url>
-    <loc>https://souren.github.io/souren.github.io/</loc>
+    <loc>https://souren.github.io/souren-profile/labs/advanced-electronics/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://souren.github.io/souren.github.io/tags/</loc>
+    <loc>https://souren.github.io/souren-profile/labs/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/home/_index_home/</loc>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/labs/advanced-electronics/test/</loc>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</loc>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</loc>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</loc>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/about/_index_about/</loc>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/about/</loc>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/categories/</loc>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/home/</loc>
+  </url><url>
+    <loc>https://souren.github.io/souren-profile/tags/</loc>
   </url>
 </urlset>
