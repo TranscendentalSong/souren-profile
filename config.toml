@@ -8,13 +8,29 @@ pagerSize = 4
 path = "page"
 
 [params]
-author = { name = "Souren Ghosh", email = "souren@example.com" }
 defaultTheme = "auto"
 ShowReadingTime = true
 ShowToc = true
 ShowShareButtons = true
 ShowCodeCopyButtons = true
 ShowBreadCrumbs = true
+
+
+[params.author]
+name = "Souren Ghosh"
+email = "souren@example.com"
+avatar = "images/profile/souren.png"
+resize = "128x128"
+
+[params.sidebar]
+compact = false
+emoji = "📝"
+subtitle = "Engineer | Maker | Writer"
+
+[params.sidebar.avatar]
+enabled = true
+src = "https://ik.imagekit.io/7g2tgjtpt/souren-reduced.png?updatedAt=1760355002999"
+local = false
 
 [params.homeInfoParams]
 Title = "👋 Welcome to Souren's Obsidian Journal"
