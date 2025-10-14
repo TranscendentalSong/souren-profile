@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Souren&#39;s Journal</title>
-        <link>http://localhost:1313/souren-profile/</link>
-        <description>Recent content on Souren&#39;s Journal</description>
+        <title>Intro on Souren&#39;s Journal</title>
+        <link>http://localhost:1313/souren-profile/tags/intro/</link>
+        <description>Recent content in Intro on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Basic  Details and Measures</title>
-        <link>http://localhost:1313/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</link>
-        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</guid>
-        <description>&lt;p&gt;Project details go here.&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/tags/intro/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Post</title>
         <link>http://localhost:1313/souren-profile/home/_index_home/</link>
         <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
@@ -76,51 +67,6 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-</description>
-        </item>
-        <item>
-        <title></title>
-        <link>http://localhost:1313/souren-profile/labs/advanced-electronics/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/advanced-electronics/test/</guid>
-        <description>&lt;p&gt;This page is under construction&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title></title>
-        <link>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</guid>
-        <description>&lt;p&gt;this is basic section  lab 1&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title></title>
-        <link>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</guid>
-        <description>&lt;p&gt;this is basic section  lab 2&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title></title>
-        <link>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</guid>
-        <description>&lt;p&gt;this is basic section lab 3&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>About Me</title>
-        <link>http://localhost:1313/souren-profile/about/_index_about/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/about/_index_about/</guid>
-        <description>&lt;p&gt;Hi, I’m Souren. I love building and writing about embedded systems, electronics, and cloud architecture.&lt;/p&gt;
 </description>
         </item>
         

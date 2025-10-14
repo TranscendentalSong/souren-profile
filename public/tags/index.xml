@@ -2,11 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Souren&#39;s Journal</title>
-        <link>https://souren.github.io/souren-profile/tags/</link>
+        <link>http://localhost:1313/souren-profile/tags/</link>
         <description>Recent content in Tags on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
-        <webMaster>souren@example.com (Souren Ghosh)</webMaster><atom:link href="https://souren.github.io/souren-profile/tags/index.xml" rel="self" type="application/rss+xml" />
+        <webMaster>souren@example.com (Souren Ghosh)</webMaster>
+        <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Intro</title>
+        <link>http://localhost:1313/souren-profile/tags/intro/</link>
+        <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/intro/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Setup</title>
+        <link>http://localhost:1313/souren-profile/tags/setup/</link>
+        <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/setup/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

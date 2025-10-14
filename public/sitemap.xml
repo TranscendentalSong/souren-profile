@@ -2,41 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</loc>
+    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/introductory-lab/</loc>
+    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/introductory-lab/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/</loc>
+    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/</loc>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/labs/advanced-electronics/</loc>
+    <loc>http://localhost:1313/souren-profile/labs/advanced-electronics/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/labs/</loc>
+    <loc>http://localhost:1313/souren-profile/home/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/intro/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/home/_index_home/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/root/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/setup/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/root/root-page/</loc>
+    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/souren-profile/labs/advanced-electronics/test/</loc>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/home/_index_home/</loc>
+    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</loc>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/labs/advanced-electronics/test/</loc>
+    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</loc>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</loc>
+    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</loc>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</loc>
+    <loc>http://localhost:1313/souren-profile/about/_index_about/</loc>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</loc>
+    <loc>http://localhost:1313/souren-profile/about/</loc>
   </url><url>
-    <loc>https://souren.github.io/souren-profile/about/_index_about/</loc>
-  </url><url>
-    <loc>https://souren.github.io/souren-profile/about/</loc>
-  </url><url>
-    <loc>https://souren.github.io/souren-profile/categories/</loc>
-  </url><url>
-    <loc>https://souren.github.io/souren-profile/home/</loc>
-  </url><url>
-    <loc>https://souren.github.io/souren-profile/tags/</loc>
+    <loc>http://localhost:1313/souren-profile/categories/</loc>
   </url>
 </urlset>

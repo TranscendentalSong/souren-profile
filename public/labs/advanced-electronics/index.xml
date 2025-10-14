@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Advanced Electronics on Souren&#39;s Journal</title>
-        <link>https://souren.github.io/souren-profile/labs/advanced-electronics/</link>
+        <link>http://localhost:1313/souren-profile/labs/advanced-electronics/</link>
         <description>Recent content in Advanced Electronics on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/labs/advanced-electronics/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/labs/advanced-electronics/index.xml" rel="self" type="application/rss+xml" /><item>
         <title></title>
-        <link>https://souren.github.io/souren-profile/labs/advanced-electronics/test/</link>
+        <link>http://localhost:1313/souren-profile/labs/advanced-electronics/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>https://souren.github.io/souren-profile/labs/advanced-electronics/test/</guid>
+        <guid>http://localhost:1313/souren-profile/labs/advanced-electronics/test/</guid>
         <description>&lt;p&gt;This page is under construction&lt;/p&gt;
 </description>
         </item>
