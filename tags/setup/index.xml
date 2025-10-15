@@ -10,11 +10,11 @@
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
         <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/tags/setup/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Post</title>
-        <link>http://localhost:1313/souren-profile/home/_index_home/</link>
+        <link>http://localhost:1313/souren-profile/about/</link>
         <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/home/_index_home/</guid>
-        <description>&lt;h1 id=&#34;-hello-i-am-souren&#34;&gt;✨ Hello, I am Souren
+        <guid>http://localhost:1313/souren-profile/about/</guid>
+        <description>&lt;img src="https://ik.imagekit.io/7g2tgjtpt/souren-reduced.png?updatedAt=1760355002999" alt="Featured image of post My First Post" /&gt;&lt;h1 id=&#34;-hello-i-am-souren&#34;&gt;✨ Hello, I am Souren
 &lt;/h1&gt;&lt;p&gt;Hi, I’m &lt;strong&gt;Souren Ghosh&lt;/strong&gt;, hailed from Kolkata,WestBengal. I’m passionate about &lt;strong&gt;practical solutions&lt;/strong&gt; and &lt;strong&gt;contributing to society&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;what-drives-me&#34;&gt;What drives me
@@ -37,36 +37,6 @@
     &gt;YourRepo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email: &lt;a class=&#34;link&#34; href=&#34;mailto:your.email@example.com&#34; &gt;your.email@example.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Welcome to my page</title>
-        <link>http://localhost:1313/souren-profile/root/root-page/</link>
-        <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/root/root-page/</guid>
-        <description>&lt;p&gt;Be patient&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;what-is-lorem-ipsum&#34;&gt;What is Lorem Ipsum?
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-&lt;h2 id=&#34;why-do-we-use-it&#34;&gt;Why do we use it?
-&lt;/h2&gt;&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &amp;lsquo;Content here, content here&amp;rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &amp;rsquo;lorem ipsum&amp;rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
-&lt;h2 id=&#34;where-does-it-come-from&#34;&gt;Where does it come from?
-&lt;/h2&gt;&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;
-&lt;p&gt;The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.&lt;/p&gt;
-&lt;h2 id=&#34;where-can-i-get-some&#34;&gt;Where can I get some?
-&lt;/h2&gt;&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;rsquo;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&amp;rsquo;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
 </description>
         </item>
         
