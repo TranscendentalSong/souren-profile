@@ -14,39 +14,44 @@ theme = "hugo-theme-stack"
   ShowShareButtons = true
   ShowCodeCopyButtons = true
   ShowBreadCrumbs = true
+  customCSS = ["css/custom.css"]
 
-mainSections = ["root"]
-
-
-
-[params.author]
-  name = "Souren Ghosh"
-  email = "souren@example.com"
-  avatar = "images/profile/souren.png"
-  resize = "128x128"
-
-[params.sidebar]
-  compact = false
-  emoji = "📝"
-  subtitle = "Engineer | Maker | Writer"
-
-[params.sidebar.avatar]
-  enabled = true
-  src = "https://ik.imagekit.io/7g2tgjtpt/souren-reduced.png?updatedAt=1760355002999"
-  local = false
-
-[params.homeInfoParams]
-  Title = "👋 Welcome to Souren's Obsidian Journal"
-  Content = "A collection of my thoughts, experiments, and notes — built with Hugo and Obsidian."
+  mainSections = ["root"]
 
 
-[params.widgets]
-  homepage = [
-    { type = "search" },
-    { type = "archives", params = { limit = 5 } },
-    { type = "categories", params = { limit = 10 } },
-    { type = "tag-cloud", params = { limit = 10 } }
-  ]
+  [params.author]
+    name = "Souren Ghosh"
+    email = "souren@example.com"
+    avatar = "images/profile/souren.png"
+    resize = "128x128"
+
+  [params.sidebar]
+    compact = false
+    emoji = "📝"
+    subtitle = "Engineer | Maker | Writer"
+
+  [params.sidebar.avatar]
+    enabled = true
+    src = "https://ik.imagekit.io/7g2tgjtpt/souren-reduced.png?updatedAt=1760355002999"
+    local = false
+
+  [params.homeInfoParams]
+    Title = "👋 Welcome to Souren's Obsidian Journal"
+    Content = "A collection of my thoughts, experiments, and notes — built with Hugo and Obsidian."
+
+
+  [params.widgets]
+    homepage = [
+      { type = "search" },
+      { type = "archives", params = { limit = 5 } },
+      { type = "categories", params = { limit = 10 } },
+      { type = "tag-cloud", params = { limit = 10 } }
+    ]
+  [params.footer]
+    since = 2025
+    poweredby = false
+    custom = true
+    text = "© 2025 Souren Ghosh — Built with ❤️ using Hugo + Stack"
 
 [menu]
 
