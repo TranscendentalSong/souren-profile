@@ -7,6 +7,31 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
-        <webMaster>souren@example.com (Souren Ghosh)</webMaster><atom:link href="http://localhost:1313/souren-profile/categories/index.xml" rel="self" type="application/rss+xml" />
+        <webMaster>souren@example.com (Souren Ghosh)</webMaster>
+        <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Engineering</title>
+        <link>http://localhost:1313/souren-profile/categories/engineering/</link>
+        <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/categories/engineering/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Philosophy</title>
+        <link>http://localhost:1313/souren-profile/categories/philosophy/</link>
+        <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/categories/philosophy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Introduction</title>
+        <link>http://localhost:1313/souren-profile/categories/introduction/</link>
+        <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/categories/introduction/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

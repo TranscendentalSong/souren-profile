@@ -4,7 +4,7 @@ title = "Souren's Journal"
 theme = "hugo-theme-stack"
 
 [pagination]
-  pagerSize = 4
+  pagerSize = 2
   path = "page"
 
 [params]
@@ -45,7 +45,6 @@ theme = "hugo-theme-stack"
       { type = "search" },
       { type = "archives", params = { limit = 5 } },
       { type = "categories", params = { limit = 10 } },
-      { type = "tag-cloud", params = { limit = 10 } }
     ]
   [params.footer]
     since = 2025
@@ -53,14 +52,41 @@ theme = "hugo-theme-stack"
     custom = true
     text = "© 2025 Souren Ghosh — Built with ❤️ using Hugo + Stack"
 
+  [params.defaultImage.opengraph]
+    enabled = false
+    local = false
+    src = ""
+
+  [params.colorScheme]
+    toggle = true
+    default = "auto"
+
+  [params.imageProcessing.cover]
+    enabled = true
+
+  [params.imageProcessing.content]
+    enabled = true
+  [params.article]
+    math = false
+    readingTime = true
+
+  [params.article.license]
+    enabled = true
+    default = "Licensed under CC BY-NC-SA 4.0"
+
 [menu]
+  [[menu.social]]
+    indentifier = "Github"
+    url = "https://github.com/CaiJimmy/hugo-theme-stack"
+    [menu.social.params]
+        icon = "brand-github"
 
   # Home
-  [[menu.main]]
-    identifier = "home"
-    name = "🏠 Home"
-    url = "/home/"
-    weight = 1
+  #[[menu.main]]
+  #  identifier = "home"
+  #  name = "🏠 Home"
+  #  url = "/home/"
+  #  weight = 1
 
   # About
   [[menu.main]]

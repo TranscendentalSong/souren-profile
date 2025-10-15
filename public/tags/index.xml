@@ -8,7 +8,95 @@
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Basics</title>
+        <link>http://localhost:1313/souren-profile/tags/basics/</link>
+        <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/basics/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Electrical</title>
+        <link>http://localhost:1313/souren-profile/tags/electrical/</link>
+        <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/electrical/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Instrumentation</title>
+        <link>http://localhost:1313/souren-profile/tags/instrumentation/</link>
+        <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/instrumentation/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Measurements</title>
+        <link>http://localhost:1313/souren-profile/tags/measurements/</link>
+        <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/measurements/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Frugality</title>
+        <link>http://localhost:1313/souren-profile/tags/frugality/</link>
+        <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/frugality/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Life-Lessons</title>
+        <link>http://localhost:1313/souren-profile/tags/life-lessons/</link>
+        <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/life-lessons/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Minimalism</title>
+        <link>http://localhost:1313/souren-profile/tags/minimalism/</link>
+        <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/minimalism/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Reflection</title>
+        <link>http://localhost:1313/souren-profile/tags/reflection/</link>
+        <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/reflection/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Beginning</title>
+        <link>http://localhost:1313/souren-profile/tags/beginning/</link>
+        <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/beginning/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hello-World</title>
+        <link>http://localhost:1313/souren-profile/tags/hello-world/</link>
+        <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/hello-world/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Personal</title>
+        <link>http://localhost:1313/souren-profile/tags/personal/</link>
+        <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/tags/personal/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Intro</title>
         <link>http://localhost:1313/souren-profile/tags/intro/</link>
         <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>

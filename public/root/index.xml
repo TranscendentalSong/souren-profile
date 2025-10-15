@@ -8,34 +8,93 @@
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/root/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Welcome to my page</title>
-        <link>http://localhost:1313/souren-profile/root/root-page/</link>
-        <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 15 Oct 2025 11:00:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/root/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Frugality of Life — Finding Grace in Simplicity</title>
+        <link>http://localhost:1313/souren-profile/root/second-post.md/</link>
+        <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/root/root-page/</guid>
-        <description>&lt;p&gt;Be patient&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;what-is-lorem-ipsum&#34;&gt;What is Lorem Ipsum?
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-&lt;h2 id=&#34;why-do-we-use-it&#34;&gt;Why do we use it?
-&lt;/h2&gt;&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &amp;lsquo;Content here, content here&amp;rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &amp;rsquo;lorem ipsum&amp;rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
-&lt;h2 id=&#34;where-does-it-come-from&#34;&gt;Where does it come from?
-&lt;/h2&gt;&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;
-&lt;p&gt;The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.&lt;/p&gt;
-&lt;h2 id=&#34;where-can-i-get-some&#34;&gt;Where can I get some?
-&lt;/h2&gt;&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;rsquo;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&amp;rsquo;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+        <guid>http://localhost:1313/souren-profile/root/second-post.md/</guid>
+        <description>&lt;h1 id=&#34;the-frugality-of-life-&#34;&gt;The Frugality of Life 🌿
+&lt;/h1&gt;&lt;p&gt;We live in a world that constantly whispers, &lt;em&gt;“More.”&lt;/em&gt;&lt;br&gt;
+More things. More success. More validation.&lt;br&gt;
+But what if the secret to a fulfilling life lies not in adding, but in &lt;strong&gt;subtracting&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;Frugality isn’t about deprivation. It’s about &lt;strong&gt;deliberation&lt;/strong&gt; — choosing consciously where our time, energy, and money flow. It’s about aligning our lives with what actually brings peace and purpose, rather than chasing what sparkles for a moment and fades the next.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-essence-of-frugality&#34;&gt;The Essence of Frugality
+&lt;/h2&gt;&lt;p&gt;Frugality begins with gratitude.&lt;br&gt;
+When we recognize what we already have — the warmth of morning light, a calm cup of tea, a kind word — we stop searching frantically for more.&lt;br&gt;
+We start to &lt;strong&gt;see abundance in simplicity&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Living frugally teaches us that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Every possession has a hidden cost — of space, attention, and care.&lt;/li&gt;
+&lt;li&gt;Every purchase is a vote for the kind of world we want to build.&lt;/li&gt;
+&lt;li&gt;Every act of restraint sharpens appreciation for what remains.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;beyond-money&#34;&gt;Beyond Money
+&lt;/h2&gt;&lt;p&gt;To be frugal in life is not just to spend less — it’s to &lt;strong&gt;waste less&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Less time in distraction.&lt;/li&gt;
+&lt;li&gt;Less energy on resentment.&lt;/li&gt;
+&lt;li&gt;Less emotion on things outside our control.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s an act of quiet rebellion against the chaos of consumption.&lt;br&gt;
+A way to reclaim sovereignty over our own minds.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-joy-of-enough&#34;&gt;The Joy of Enough
+&lt;/h2&gt;&lt;p&gt;There’s a quiet joy in realizing that &lt;em&gt;enough&lt;/em&gt; is a moving boundary we can choose to stop chasing.&lt;br&gt;
+Enough clothes.&lt;br&gt;
+Enough gadgets.&lt;br&gt;
+Enough goals.&lt;/p&gt;
+&lt;p&gt;When “enough” settles in the heart, contentment follows naturally.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;closing-thoughts-&#34;&gt;Closing Thoughts 🌸
+&lt;/h2&gt;&lt;p&gt;Frugality isn’t an aesthetic — it’s a mindset.&lt;br&gt;
+It’s not about living less, but about living &lt;strong&gt;lightly&lt;/strong&gt;, with clarity and purpose.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The cost of a thing is the amount of what I will call life which is required to be exchanged for it.”&lt;/em&gt;&lt;br&gt;
+— Henry David Thoreau&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Here’s to a life not cluttered by possessions, but enriched by perspective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;– Souren&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Welcome to My Blog — A Fresh Beginning</title>
+        <link>http://localhost:1313/souren-profile/root/first-post.md/</link>
+        <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/root/first-post.md/</guid>
+        <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog 🌱
+&lt;/h1&gt;&lt;p&gt;Hey there — and welcome!&lt;br&gt;
+This is the very first post on my Hugo-powered blog, and I couldn’t be more excited to finally hit &lt;strong&gt;publish&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve been meaning to start this space for a while — a place where I can write, explore ideas, and share what I’m learning along the way. Whether it’s about technology, engineering, personal projects, or just random reflections, this blog is going to be my digital notebook — open to anyone curious enough to read.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-i-started-this-blog&#34;&gt;Why I Started This Blog
+&lt;/h2&gt;&lt;p&gt;There’s something powerful about putting thoughts into words. Writing forces clarity, and clarity builds growth.&lt;br&gt;
+I wanted a clean, fast, and minimal platform — so &lt;strong&gt;Hugo&lt;/strong&gt; felt like the perfect fit. It’s lightweight, Markdown-based, and gives me full control over how my content looks and behaves.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-you-can-expect-here&#34;&gt;What You Can Expect Here
+&lt;/h2&gt;&lt;p&gt;Over time, I plan to post about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Tech experiments &amp;amp; coding projects&lt;/li&gt;
+&lt;li&gt;⚙️ Engineering, electronics, and system design&lt;/li&gt;
+&lt;li&gt;📚 Notes from books, ideas, and experiences&lt;/li&gt;
+&lt;li&gt;💡 Occasional deep dives into things I find fascinating&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This blog isn’t about perfection — it’s about &lt;strong&gt;progress&lt;/strong&gt; and &lt;strong&gt;sharing&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;a-note-on-simplicity&#34;&gt;A Note on Simplicity
+&lt;/h2&gt;&lt;p&gt;In a world full of noisy feeds and endless scrolling, I want this site to feel different —&lt;br&gt;
+a quiet, thoughtful space to pause, learn, and build together.&lt;/p&gt;
+&lt;p&gt;If you’re reading this, you’re already part of that journey. So, thank you.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;until-next-time-&#34;&gt;Until Next Time 👋
+&lt;/h2&gt;&lt;p&gt;I’ll be posting regularly, so stay tuned for updates.&lt;br&gt;
+If you’d like to connect or share ideas, feel free to drop a comment or reach out through the contact page.&lt;/p&gt;
+&lt;p&gt;See you in the next post —&lt;br&gt;
+&lt;strong&gt;Souren&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The first step doesn’t have to be perfect — it just has to be taken.”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 </description>
         </item>
         

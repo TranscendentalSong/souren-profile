@@ -8,120 +8,289 @@
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Basic  Details and Measures</title>
-        <link>http://localhost:1313/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</link>
-        <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Understanding Electrical Measurements — The Language of Circuits</title>
+        <link>http://localhost:1313/souren-profile/labs/electrical/basic/introduction/</link>
+        <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</guid>
-        <description>&lt;p&gt;Project details go here.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>My First Post</title>
-        <link>http://localhost:1313/souren-profile/home/_index_home/</link>
-        <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/home/_index_home/</guid>
-        <description>&lt;h1 id=&#34;-hello-i-am-souren&#34;&gt;✨ Hello, I am Souren
-&lt;/h1&gt;&lt;p&gt;Hi, I’m &lt;strong&gt;Souren Ghosh&lt;/strong&gt;, hailed from Kolkata,WestBengal. I’m passionate about &lt;strong&gt;practical solutions&lt;/strong&gt; and &lt;strong&gt;contributing to society&lt;/strong&gt;.&lt;/p&gt;
+        <guid>http://localhost:1313/souren-profile/labs/electrical/basic/introduction/</guid>
+        <description>&lt;h1 id=&#34;understanding-electrical-measurements-&#34;&gt;Understanding Electrical Measurements ⚡
+&lt;/h1&gt;&lt;p&gt;Electricity itself is invisible — we cannot see voltage, current, or resistance directly.&lt;br&gt;
+Yet through &lt;strong&gt;measurement&lt;/strong&gt;, we give shape to this invisible force, turning it into something we can control, predict, and harness.&lt;/p&gt;
+&lt;p&gt;Electrical measurements are, quite literally, the &lt;strong&gt;language of circuits&lt;/strong&gt;.&lt;br&gt;
+They tell us what a system is doing, how it behaves under load, and whether it’s alive or silent.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;what-drives-me&#34;&gt;What drives me
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;💡 Hands-on projects and experimentation&lt;/li&gt;
-&lt;li&gt;🌱 Pragmatic approaches that actually make a difference&lt;/li&gt;
-&lt;li&gt;🔬 Exploring technology, science, and innovation&lt;/li&gt;
+&lt;h2 id=&#34;why-electrical-measurement-matters&#34;&gt;Why Electrical Measurement Matters
+&lt;/h2&gt;&lt;p&gt;Every electrical or electronic project — from the simplest LED circuit to advanced biomedical instruments — depends on &lt;strong&gt;accurate measurement&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Measurement allows us to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diagnose faults&lt;/li&gt;
+&lt;li&gt;Validate designs&lt;/li&gt;
+&lt;li&gt;Calibrate instruments&lt;/li&gt;
+&lt;li&gt;Understand physical behavior (like voltage drops, power loss, or signal distortion)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Without measurement, engineering would be little more than guessing.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;my-philosophy&#34;&gt;My Philosophy
-&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;“Ideas are only valuable when applied.”&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;I strive to &lt;strong&gt;create, learn, and share knowledge&lt;/strong&gt; that helps people and society.&lt;/p&gt;
+&lt;h2 id=&#34;the-three-fundamental-quantities&#34;&gt;The Three Fundamental Quantities
+&lt;/h2&gt;&lt;p&gt;At the heart of all electrical measurement lie &lt;strong&gt;three primary quantities&lt;/strong&gt;:&lt;/p&gt;
+&lt;h3 id=&#34;-voltage-v&#34;&gt;⚡ Voltage (V)
+&lt;/h3&gt;&lt;p&gt;The &lt;em&gt;potential difference&lt;/em&gt; between two points — the electrical &amp;ldquo;pressure&amp;rdquo; that pushes charges through a circuit.&lt;br&gt;
+Measured in &lt;strong&gt;volts (V)&lt;/strong&gt; using a &lt;strong&gt;voltmeter&lt;/strong&gt; or the voltage mode of a &lt;strong&gt;multimeter&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Think of voltage as the &amp;ldquo;push&amp;rdquo; that drives electrons.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;connect&#34;&gt;Connect
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;LinkedIn: &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;YourProfile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;YourRepo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Email: &lt;a class=&#34;link&#34; href=&#34;mailto:your.email@example.com&#34; &gt;your.email@example.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Welcome to my page</title>
-        <link>http://localhost:1313/souren-profile/root/root-page/</link>
-        <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/root/root-page/</guid>
-        <description>&lt;p&gt;Be patient&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;what-is-lorem-ipsum&#34;&gt;What is Lorem Ipsum?
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-&lt;h2 id=&#34;why-do-we-use-it&#34;&gt;Why do we use it?
-&lt;/h2&gt;&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &amp;lsquo;Content here, content here&amp;rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &amp;rsquo;lorem ipsum&amp;rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
-&lt;h2 id=&#34;where-does-it-come-from&#34;&gt;Where does it come from?
-&lt;/h2&gt;&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;
-&lt;p&gt;The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.&lt;/p&gt;
-&lt;h2 id=&#34;where-can-i-get-some&#34;&gt;Where can I get some?
-&lt;/h2&gt;&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;rsquo;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&amp;rsquo;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.&lt;/p&gt;
+&lt;h3 id=&#34;-current-i&#34;&gt;🔄 Current (I)
+&lt;/h3&gt;&lt;p&gt;The &lt;em&gt;flow of electric charge&lt;/em&gt; through a conductor — measured in &lt;strong&gt;amperes (A)&lt;/strong&gt;.&lt;br&gt;
+Current tells us how much charge moves per second.&lt;/p&gt;
+&lt;p&gt;Measured with an &lt;strong&gt;ammeter&lt;/strong&gt;, or indirectly using a &lt;strong&gt;shunt resistor&lt;/strong&gt; and voltage drop.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Current is like the amount of water flowing through a pipe per second.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-resistance-r&#34;&gt;🧱 Resistance (R)
+&lt;/h3&gt;&lt;p&gt;The opposition offered by material to current flow — measured in &lt;strong&gt;ohms (Ω)&lt;/strong&gt;.&lt;br&gt;
+Every conductor, even a wire, resists current slightly.&lt;/p&gt;
+&lt;p&gt;Measured using an &lt;strong&gt;ohmmeter&lt;/strong&gt; or the resistance mode of a &lt;strong&gt;multimeter&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Resistance determines how easily electricity can move through a path.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;instruments-of-measurement&#34;&gt;Instruments of Measurement
+&lt;/h2&gt;&lt;p&gt;Modern engineers rely on several key instruments:&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Instrument&lt;/th&gt;
+          &lt;th&gt;Measures&lt;/th&gt;
+          &lt;th&gt;Typical Range&lt;/th&gt;
+          &lt;th&gt;Notes&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Multimeter&lt;/td&gt;
+          &lt;td&gt;Voltage, Current, Resistance&lt;/td&gt;
+          &lt;td&gt;Varies&lt;/td&gt;
+          &lt;td&gt;Essential all-in-one tool&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Oscilloscope&lt;/td&gt;
+          &lt;td&gt;Time-varying Voltage&lt;/td&gt;
+          &lt;td&gt;mV to hundreds of V&lt;/td&gt;
+          &lt;td&gt;Visualizes waveforms&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wattmeter&lt;/td&gt;
+          &lt;td&gt;Power&lt;/td&gt;
+          &lt;td&gt;Watts (W)&lt;/td&gt;
+          &lt;td&gt;Useful in AC systems&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;LCR Meter&lt;/td&gt;
+          &lt;td&gt;Inductance, Capacitance, Resistance&lt;/td&gt;
+          &lt;td&gt;µH, µF, Ω&lt;/td&gt;
+          &lt;td&gt;For component characterization&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Function Generator&lt;/td&gt;
+          &lt;td&gt;(Not measurement, but signal source)&lt;/td&gt;
+          &lt;td&gt;Hz–MHz&lt;/td&gt;
+          &lt;td&gt;Used to test responses&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;measurement-in-the-real-world&#34;&gt;Measurement in the Real World
+&lt;/h2&gt;&lt;p&gt;In practical circuits, &lt;strong&gt;measurement technique&lt;/strong&gt; matters as much as the instrument.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Always measure &lt;strong&gt;voltage in parallel&lt;/strong&gt;, &lt;strong&gt;current in series&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Consider the &lt;strong&gt;instrument’s internal resistance&lt;/strong&gt; — it can affect readings.&lt;/li&gt;
+&lt;li&gt;Use &lt;strong&gt;differential probes&lt;/strong&gt; for high-voltage or floating measurements.&lt;/li&gt;
+&lt;li&gt;In high-precision systems, &lt;strong&gt;calibration&lt;/strong&gt; and &lt;strong&gt;shielding&lt;/strong&gt; are crucial.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-beauty-of-measurement&#34;&gt;The Beauty of Measurement
+&lt;/h2&gt;&lt;p&gt;Electrical measurement isn’t just technical — it’s poetic in a way.&lt;br&gt;
+You’re quantifying something that cannot be seen, only felt through instruments.&lt;br&gt;
+Each reading tells a story — of motion, resistance, balance, and transformation.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“To measure is to know. If you cannot measure it, you cannot improve it.”&lt;/em&gt;&lt;br&gt;
+— Lord Kelvin&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;looking-ahead-&#34;&gt;Looking Ahead 🔭
+&lt;/h2&gt;&lt;p&gt;In upcoming articles, I’ll explore:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;theory and use of bridges&lt;/strong&gt; (Wheatstone, Kelvin, Maxwell)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Error and uncertainty analysis&lt;/strong&gt; in instrumentation&lt;/li&gt;
+&lt;li&gt;How to &lt;strong&gt;design and calibrate measurement systems&lt;/strong&gt; for embedded and biomedical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned — because the journey from &lt;em&gt;volts and amps&lt;/em&gt; to &lt;em&gt;insight and control&lt;/em&gt; is just beginnin&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title></title>
-        <link>http://localhost:1313/souren-profile/labs/advanced-electronics/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>The Frugality of Life — Finding Grace in Simplicity</title>
+        <link>http://localhost:1313/souren-profile/root/second-post.md/</link>
+        <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/advanced-electronics/test/</guid>
-        <description>&lt;p&gt;This page is under construction&lt;/p&gt;
+        <guid>http://localhost:1313/souren-profile/root/second-post.md/</guid>
+        <description>&lt;h1 id=&#34;the-frugality-of-life-&#34;&gt;The Frugality of Life 🌿
+&lt;/h1&gt;&lt;p&gt;We live in a world that constantly whispers, &lt;em&gt;“More.”&lt;/em&gt;&lt;br&gt;
+More things. More success. More validation.&lt;br&gt;
+But what if the secret to a fulfilling life lies not in adding, but in &lt;strong&gt;subtracting&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;Frugality isn’t about deprivation. It’s about &lt;strong&gt;deliberation&lt;/strong&gt; — choosing consciously where our time, energy, and money flow. It’s about aligning our lives with what actually brings peace and purpose, rather than chasing what sparkles for a moment and fades the next.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-essence-of-frugality&#34;&gt;The Essence of Frugality
+&lt;/h2&gt;&lt;p&gt;Frugality begins with gratitude.&lt;br&gt;
+When we recognize what we already have — the warmth of morning light, a calm cup of tea, a kind word — we stop searching frantically for more.&lt;br&gt;
+We start to &lt;strong&gt;see abundance in simplicity&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Living frugally teaches us that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Every possession has a hidden cost — of space, attention, and care.&lt;/li&gt;
+&lt;li&gt;Every purchase is a vote for the kind of world we want to build.&lt;/li&gt;
+&lt;li&gt;Every act of restraint sharpens appreciation for what remains.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;beyond-money&#34;&gt;Beyond Money
+&lt;/h2&gt;&lt;p&gt;To be frugal in life is not just to spend less — it’s to &lt;strong&gt;waste less&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Less time in distraction.&lt;/li&gt;
+&lt;li&gt;Less energy on resentment.&lt;/li&gt;
+&lt;li&gt;Less emotion on things outside our control.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s an act of quiet rebellion against the chaos of consumption.&lt;br&gt;
+A way to reclaim sovereignty over our own minds.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-joy-of-enough&#34;&gt;The Joy of Enough
+&lt;/h2&gt;&lt;p&gt;There’s a quiet joy in realizing that &lt;em&gt;enough&lt;/em&gt; is a moving boundary we can choose to stop chasing.&lt;br&gt;
+Enough clothes.&lt;br&gt;
+Enough gadgets.&lt;br&gt;
+Enough goals.&lt;/p&gt;
+&lt;p&gt;When “enough” settles in the heart, contentment follows naturally.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;closing-thoughts-&#34;&gt;Closing Thoughts 🌸
+&lt;/h2&gt;&lt;p&gt;Frugality isn’t an aesthetic — it’s a mindset.&lt;br&gt;
+It’s not about living less, but about living &lt;strong&gt;lightly&lt;/strong&gt;, with clarity and purpose.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The cost of a thing is the amount of what I will call life which is required to be exchanged for it.”&lt;/em&gt;&lt;br&gt;
+— Henry David Thoreau&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Here’s to a life not cluttered by possessions, but enriched by perspective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;– Souren&lt;/strong&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title></title>
-        <link>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>Welcome to My Blog — A Fresh Beginning</title>
+        <link>http://localhost:1313/souren-profile/root/first-post.md/</link>
+        <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</guid>
-        <description>&lt;p&gt;this is basic section  lab 1&lt;/p&gt;
+        <guid>http://localhost:1313/souren-profile/root/first-post.md/</guid>
+        <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog 🌱
+&lt;/h1&gt;&lt;p&gt;Hey there — and welcome!&lt;br&gt;
+This is the very first post on my Hugo-powered blog, and I couldn’t be more excited to finally hit &lt;strong&gt;publish&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve been meaning to start this space for a while — a place where I can write, explore ideas, and share what I’m learning along the way. Whether it’s about technology, engineering, personal projects, or just random reflections, this blog is going to be my digital notebook — open to anyone curious enough to read.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-i-started-this-blog&#34;&gt;Why I Started This Blog
+&lt;/h2&gt;&lt;p&gt;There’s something powerful about putting thoughts into words. Writing forces clarity, and clarity builds growth.&lt;br&gt;
+I wanted a clean, fast, and minimal platform — so &lt;strong&gt;Hugo&lt;/strong&gt; felt like the perfect fit. It’s lightweight, Markdown-based, and gives me full control over how my content looks and behaves.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-you-can-expect-here&#34;&gt;What You Can Expect Here
+&lt;/h2&gt;&lt;p&gt;Over time, I plan to post about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Tech experiments &amp;amp; coding projects&lt;/li&gt;
+&lt;li&gt;⚙️ Engineering, electronics, and system design&lt;/li&gt;
+&lt;li&gt;📚 Notes from books, ideas, and experiences&lt;/li&gt;
+&lt;li&gt;💡 Occasional deep dives into things I find fascinating&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This blog isn’t about perfection — it’s about &lt;strong&gt;progress&lt;/strong&gt; and &lt;strong&gt;sharing&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;a-note-on-simplicity&#34;&gt;A Note on Simplicity
+&lt;/h2&gt;&lt;p&gt;In a world full of noisy feeds and endless scrolling, I want this site to feel different —&lt;br&gt;
+a quiet, thoughtful space to pause, learn, and build together.&lt;/p&gt;
+&lt;p&gt;If you’re reading this, you’re already part of that journey. So, thank you.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;until-next-time-&#34;&gt;Until Next Time 👋
+&lt;/h2&gt;&lt;p&gt;I’ll be posting regularly, so stay tuned for updates.&lt;br&gt;
+If you’d like to connect or share ideas, feel free to drop a comment or reach out through the contact page.&lt;/p&gt;
+&lt;p&gt;See you in the next post —&lt;br&gt;
+&lt;strong&gt;Souren&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The first step doesn’t have to be perfect — it just has to be taken.”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 </description>
         </item>
         <item>
-        <title></title>
-        <link>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>RC Circuit Demo</title>
+        <link>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rc-circuits/demo/</link>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</guid>
-        <description>&lt;p&gt;this is basic section  lab 2&lt;/p&gt;
+        <guid>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rc-circuits/demo/</guid>
+        <description>&lt;h1 id=&#34;rc-circuit-demo&#34;&gt;RC Circuit Demo
+&lt;/h1&gt;&lt;p&gt;This page demonstrates a simple &lt;strong&gt;RC Low-Pass Filter&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-description&#34;&gt;Circuit Description
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Resistor (R):&lt;/strong&gt; 1 kΩ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacitor (C):&lt;/strong&gt; 0.1 µF&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input:&lt;/strong&gt; Vin (signal source, e.g., function generator)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Output:&lt;/strong&gt; Vout measured across the capacitor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The circuit allows &lt;strong&gt;low-frequency signals to pass&lt;/strong&gt; while attenuating high-frequency signals.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-diagram&#34;&gt;Circuit Diagram
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>RC Circuit Demo</title>
+        <link>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo/</link>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo/</guid>
+        <description>&lt;h1 id=&#34;rc-circuit-demo&#34;&gt;RC Circuit Demo
+&lt;/h1&gt;&lt;p&gt;This page demonstrates a simple &lt;strong&gt;RC Low-Pass Filter&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-description&#34;&gt;Circuit Description
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Resistor (R):&lt;/strong&gt; 1 kΩ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacitor (C):&lt;/strong&gt; 0.1 µF&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input:&lt;/strong&gt; Vin (signal source, e.g., function generator)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Output:&lt;/strong&gt; Vout measured across the capacitor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The circuit allows &lt;strong&gt;low-frequency signals to pass&lt;/strong&gt; while attenuating high-frequency signals.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-diagram&#34;&gt;Circuit Diagram
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>Resistor Circuit Demos</title>
+        <link>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo-2/</link>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo-2/</guid>
+        <description>&lt;h1 id=&#34;resistor-circuit-demos&#34;&gt;Resistor Circuit Demos
+&lt;/h1&gt;&lt;p&gt;This page demonstrates &lt;strong&gt;simple resistor-only circuits&lt;/strong&gt;, including voltage dividers, current limiting, and Wheatstone bridge examples. All circuits are safe and suitable for breadboard experiments.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-voltage-divider&#34;&gt;1. Voltage Divider
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Divide a voltage into smaller portions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Resistor R1: 1 kΩ&lt;/li&gt;
+&lt;li&gt;Resistor R2: 1 kΩ&lt;/li&gt;
+&lt;li&gt;Input voltage: Vin&lt;/li&gt;
+&lt;li&gt;Output voltage: Vout&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Circuit Diagram:&lt;/strong&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title></title>
-        <link>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>RLC Circuit Demo</title>
+        <link>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/demo/</link>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</guid>
-        <description>&lt;p&gt;this is basic section lab 3&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>About Me</title>
-        <link>http://localhost:1313/souren-profile/about/_index_about/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/about/_index_about/</guid>
-        <description>&lt;p&gt;Hi, I’m Souren. I love building and writing about embedded systems, electronics, and cloud architecture.&lt;/p&gt;
-</description>
+        <guid>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/demo/</guid>
+        <description>&lt;h1 id=&#34;rlc-circuit-demo&#34;&gt;RLC Circuit Demo
+&lt;/h1&gt;&lt;p&gt;This page demonstrates a &lt;strong&gt;Series RLC Circuit&lt;/strong&gt; and resonance phenomenon.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-description&#34;&gt;Circuit Description
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Resistor (R):&lt;/strong&gt; 100 Ω&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inductor (L):&lt;/strong&gt; 10 mH&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacitor (C):&lt;/strong&gt; 1 µF&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input:&lt;/strong&gt; Vin (AC signal)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Output:&lt;/strong&gt; Measured across the series combination&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;circuit-diagram&#34;&gt;Circuit Diagram
+&lt;/h2&gt;</description>
         </item>
         
     </channel>

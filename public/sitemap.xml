@@ -2,56 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/introductory-lab/lab-1/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/souren-profile/tags/basics/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/introductory-lab/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/souren-profile/categories/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/</loc>
+    <loc>http://localhost:1313/souren-profile/tags/electrical/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/souren-profile/labs/advanced-electronics/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/souren-profile/home/</loc>
-    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/souren-profile/categories/engineering/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/instrumentation/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/measurements/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/basic/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/basic/introduction/</loc>
+    <lastmod>2025-10-15T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/frugality/</loc>
+    <lastmod>2025-10-15T11:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/life-lessons/</loc>
+    <lastmod>2025-10-15T11:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/minimalism/</loc>
+    <lastmod>2025-10-15T11:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/categories/philosophy/</loc>
+    <lastmod>2025-10-15T11:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/reflection/</loc>
+    <lastmod>2025-10-15T11:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/root/</loc>
+    <lastmod>2025-10-15T11:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/root/second-post.md/</loc>
+    <lastmod>2025-10-15T11:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/beginning/</loc>
+    <lastmod>2025-10-15T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/hello-world/</loc>
+    <lastmod>2025-10-15T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/categories/introduction/</loc>
+    <lastmod>2025-10-15T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/tags/personal/</loc>
+    <lastmod>2025-10-15T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/root/first-post.md/</loc>
+    <lastmod>2025-10-15T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rc-circuits/demo/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rc-circuits/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo-2/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/demo/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/souren-profile/tags/intro/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/souren-profile/home/_index_home/</loc>
-    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/souren-profile/root/</loc>
+    <loc>http://localhost:1313/souren-profile/about/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/souren-profile/tags/setup/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/souren-profile/</loc>
-    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/souren-profile/labs/electronics/</loc>
   </url><url>
-    <loc>http://localhost:1313/souren-profile/tags/</loc>
-    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/souren-profile/labs/mechanical/</loc>
   </url><url>
-    <loc>http://localhost:1313/souren-profile/root/root-page/</loc>
-    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/souren-profile/labs/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/souren-profile/labs/advanced-electronics/test/</loc>
-  </url><url>
-    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/souren-profile/labs/basic-electronics/basic-section-1/lab-3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/souren-profile/about/_index_about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/souren-profile/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/souren-profile/categories/</loc>
+    <loc>http://localhost:1313/souren-profile/labs/physics/</loc>
   </url>
 </urlset>
