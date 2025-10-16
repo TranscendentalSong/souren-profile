@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>RLC Circuits on Souren&#39;s Journal</title>
-        <link>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/</link>
+        <link>https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/</link>
         <description>Recent content in RLC Circuits on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>RLC Circuit Demo</title>
-        <link>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/demo/</link>
+        <link>https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/demo/</link>
         <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/demo/</guid>
+        <guid>https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/demo/</guid>
         <description>&lt;h1 id=&#34;rlc-circuit-demo&#34;&gt;RLC Circuit Demo
 &lt;/h1&gt;&lt;p&gt;This page demonstrates a &lt;strong&gt;Series RLC Circuit&lt;/strong&gt; and resonance phenomenon.&lt;/p&gt;
 &lt;h2 id=&#34;circuit-description&#34;&gt;Circuit Description

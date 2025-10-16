@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Basics on Souren&#39;s Journal</title>
-        <link>http://localhost:1313/souren-profile/tags/basics/</link>
+        <link>https://souren.github.io/souren-profile/tags/basics/</link>
         <description>Recent content in Basics on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/tags/basics/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0530</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/tags/basics/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Understanding Electrical Measurements — The Language of Circuits</title>
-        <link>http://localhost:1313/souren-profile/labs/electrical/basic/introduction/</link>
+        <link>https://souren.github.io/souren-profile/labs/electrical/basic/introduction/</link>
         <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/electrical/basic/introduction/</guid>
+        <guid>https://souren.github.io/souren-profile/labs/electrical/basic/introduction/</guid>
         <description>&lt;h1 id=&#34;understanding-electrical-measurements-&#34;&gt;Understanding Electrical Measurements ⚡
 &lt;/h1&gt;&lt;p&gt;Electricity itself is invisible — we cannot see voltage, current, or resistance directly.&lt;br&gt;
 Yet through &lt;strong&gt;measurement&lt;/strong&gt;, we give shape to this invisible force, turning it into something we can control, predict, and harness.&lt;/p&gt;
@@ -37,21 +37,24 @@ They tell us what a system is doing, how it behaves under load, and whether it�
 &lt;/h3&gt;&lt;p&gt;The &lt;em&gt;potential difference&lt;/em&gt; between two points — the electrical &amp;ldquo;pressure&amp;rdquo; that pushes charges through a circuit.&lt;br&gt;
 Measured in &lt;strong&gt;volts (V)&lt;/strong&gt; using a &lt;strong&gt;voltmeter&lt;/strong&gt; or the voltage mode of a &lt;strong&gt;multimeter&lt;/strong&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Think of voltage as the &amp;ldquo;push&amp;rdquo; that drives electrons.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Think of voltage as the &amp;ldquo;push&amp;rdquo; that drives electrons.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;-current-i&#34;&gt;🔄 Current (I)
 &lt;/h3&gt;&lt;p&gt;The &lt;em&gt;flow of electric charge&lt;/em&gt; through a conductor — measured in &lt;strong&gt;amperes (A)&lt;/strong&gt;.&lt;br&gt;
 Current tells us how much charge moves per second.&lt;/p&gt;
 &lt;p&gt;Measured with an &lt;strong&gt;ammeter&lt;/strong&gt;, or indirectly using a &lt;strong&gt;shunt resistor&lt;/strong&gt; and voltage drop.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Current is like the amount of water flowing through a pipe per second.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Current is like the amount of water flowing through a pipe per second.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;-resistance-r&#34;&gt;🧱 Resistance (R)
 &lt;/h3&gt;&lt;p&gt;The opposition offered by material to current flow — measured in &lt;strong&gt;ohms (Ω)&lt;/strong&gt;.&lt;br&gt;
 Every conductor, even a wire, resists current slightly.&lt;/p&gt;
 &lt;p&gt;Measured using an &lt;strong&gt;ohmmeter&lt;/strong&gt; or the resistance mode of a &lt;strong&gt;multimeter&lt;/strong&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Resistance determines how easily electricity can move through a path.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Resistance determines how easily electricity can move through a path.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;instruments-of-measurement&#34;&gt;Instruments of Measurement
 &lt;/h2&gt;&lt;p&gt;Modern engineers rely on several key instruments:&lt;/p&gt;
@@ -113,7 +116,8 @@ You’re quantifying something that cannot be seen, only felt through instrument
 Each reading tells a story — of motion, resistance, balance, and transformation.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“To measure is to know. If you cannot measure it, you cannot improve it.”&lt;/em&gt;&lt;br&gt;
-— Lord Kelvin&lt;/p&gt;&lt;/blockquote&gt;
+— Lord Kelvin&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;looking-ahead-&#34;&gt;Looking Ahead 🔭
 &lt;/h2&gt;&lt;p&gt;In upcoming articles, I’ll explore:&lt;/p&gt;

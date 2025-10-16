@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Resistor (R) Circuits on Souren&#39;s Journal</title>
-        <link>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/</link>
+        <link>https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/</link>
         <description>Recent content in Resistor (R) Circuits on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>RC Circuit Demo</title>
-        <link>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo/</link>
+        <link>https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo/</link>
         <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo/</guid>
+        <guid>https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo/</guid>
         <description>&lt;h1 id=&#34;rc-circuit-demo&#34;&gt;RC Circuit Demo
 &lt;/h1&gt;&lt;p&gt;This page demonstrates a simple &lt;strong&gt;RC Low-Pass Filter&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;circuit-description&#34;&gt;Circuit Description
@@ -29,10 +29,10 @@
         </item>
         <item>
         <title>Resistor Circuit Demos</title>
-        <link>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo-2/</link>
+        <link>https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo-2/</link>
         <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo-2/</guid>
+        <guid>https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/resistor-circuits/demo-2/</guid>
         <description>&lt;h1 id=&#34;resistor-circuit-demos&#34;&gt;Resistor Circuit Demos
 &lt;/h1&gt;&lt;p&gt;This page demonstrates &lt;strong&gt;simple resistor-only circuits&lt;/strong&gt;, including voltage dividers, current limiting, and Wheatstone bridge examples. All circuits are safe and suitable for breadboard experiments.&lt;/p&gt;
 &lt;hr&gt;

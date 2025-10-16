@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Setup on Souren&#39;s Journal</title>
-        <link>http://localhost:1313/souren-profile/tags/setup/</link>
-        <description>Recent content in Setup on Souren&#39;s Journal</description>
+        <title>About on Souren&#39;s Journal</title>
+        <link>https://souren.github.io/souren-profile/tags/about/</link>
+        <description>Recent content in About on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/tags/setup/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My First Post</title>
-        <link>http://localhost:1313/souren-profile/about/</link>
+        <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/tags/about/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About Me</title>
+        <link>https://souren.github.io/souren-profile/about/</link>
         <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/about/</guid>
-        <description>&lt;img src="https://ik.imagekit.io/7g2tgjtpt/souren-reduced.png?updatedAt=1760355002999" alt="Featured image of post My First Post" /&gt;&lt;h1 id=&#34;-hello-i-am-souren&#34;&gt;✨ Hello, I am Souren
+        <guid>https://souren.github.io/souren-profile/about/</guid>
+        <description>&lt;img src="https://ik.imagekit.io/7g2tgjtpt/souren-reduced.png?updatedAt=1760355002999" alt="Featured image of post About Me" /&gt;&lt;h1 id=&#34;-hello-i-am-souren&#34;&gt;✨ Hello, I am Souren
 &lt;/h1&gt;&lt;p&gt;Hi, I’m &lt;strong&gt;Souren Ghosh&lt;/strong&gt;, hailed from Kolkata,WestBengal. I’m passionate about &lt;strong&gt;practical solutions&lt;/strong&gt; and &lt;strong&gt;contributing to society&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;what-drives-me&#34;&gt;What drives me
@@ -26,7 +26,8 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;my-philosophy&#34;&gt;My Philosophy
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;“Ideas are only valuable when applied.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;“Ideas are only valuable when applied.”&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;I strive to &lt;strong&gt;create, learn, and share knowledge&lt;/strong&gt; that helps people and society.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;connect&#34;&gt;Connect

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Frugality on Souren&#39;s Journal</title>
-        <link>http://localhost:1313/souren-profile/tags/frugality/</link>
+        <link>https://souren.github.io/souren-profile/tags/frugality/</link>
         <description>Recent content in Frugality on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Wed, 15 Oct 2025 11:00:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/tags/frugality/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Oct 2025 11:00:00 +0530</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/tags/frugality/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Frugality of Life — Finding Grace in Simplicity</title>
-        <link>http://localhost:1313/souren-profile/root/second-post.md/</link>
+        <link>https://souren.github.io/souren-profile/root/second-post.md/</link>
         <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/root/second-post.md/</guid>
+        <guid>https://souren.github.io/souren-profile/root/second-post.md/</guid>
         <description>&lt;h1 id=&#34;the-frugality-of-life-&#34;&gt;The Frugality of Life 🌿
 &lt;/h1&gt;&lt;p&gt;We live in a world that constantly whispers, &lt;em&gt;“More.”&lt;/em&gt;&lt;br&gt;
 More things. More success. More validation.&lt;br&gt;
@@ -53,7 +53,8 @@ Enough goals.&lt;/p&gt;
 It’s not about living less, but about living &lt;strong&gt;lightly&lt;/strong&gt;, with clarity and purpose.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“The cost of a thing is the amount of what I will call life which is required to be exchanged for it.”&lt;/em&gt;&lt;br&gt;
-— Henry David Thoreau&lt;/p&gt;&lt;/blockquote&gt;
+— Henry David Thoreau&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Here’s to a life not cluttered by possessions, but enriched by perspective.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;– Souren&lt;/strong&gt;&lt;/p&gt;
 </description>

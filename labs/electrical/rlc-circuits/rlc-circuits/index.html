@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-    <head><script src="/souren-profile/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=souren-profile/livereload" data-no-instant defer></script><meta charset='utf-8'>
+    <head><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Index of all RLC (Resistor + Inductor + Capacitor) circuits.">
 <title>RLC Circuits</title>
 
-<link rel='canonical' href='http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/'>
+<link rel='canonical' href='https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/'>
 
-<link rel="stylesheet" href="/souren-profile/scss/style.min.d67cb707f4db81301b7a790a463bd9e794de030da530f521e797600fe35f4d70.css"><meta property='og:title' content="RLC Circuits">
+<link rel="stylesheet" href="/souren-profile/scss/style.min.1410af055c3a609a7f0e60bff9af9285389c37748fb751bd6cf69a93a7e432e1.css"><meta property='og:title' content="RLC Circuits">
 <meta property='og:description' content="Index of all RLC (Resistor + Inductor + Capacitor) circuits.">
-<meta property='og:url' content='http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/'>
+<meta property='og:url' content='https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/'>
 <meta property='og:site_name' content='Souren&#39;s Journal'>
 <meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-10-15T12:00:00&#43;05:30 '/>
 <meta name="twitter:title" content="RLC Circuits">
-<meta name="twitter:description" content="Index of all RLC (Resistor + Inductor + Capacitor) circuits."><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/index.xml">
+<meta name="twitter:description" content="Index of all RLC (Resistor + Inductor + Capacitor) circuits."><link rel="alternate" type="application/rss&#43;xml" href="https://souren.github.io/souren-profile/labs/electrical/rlc-circuits/rlc-circuits/index.xml">
     </head>
     <body class="">
     <script>
@@ -274,11 +274,38 @@
 
             </main>
         </div>
-        <script 
-                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
-                
-                >
-            </script><script type="text/javascript" src="/souren-profile/ts/main.618184c149f2bac1ca4354d649cdf2145fe20761ab56931be9fc4c28c36301b9.js" defer></script>
+        
+<script>
+    function backToTop() {
+    document.documentElement.scrollIntoView({
+        behavior: 'smooth',
+    })
+    }
+
+    window.onload = function () {
+    let scrollTop =
+        this.document.documentElement.scrollTop || this.document.body.scrollTop
+    let totopBtn = this.document.getElementById('back-to-top')
+    if (scrollTop > 0) {
+        totopBtn.style.display = 'inline'
+    } else {
+        totopBtn.style.display = 'none'
+    }
+    }
+
+    window.onscroll = function () {
+    let scrollTop =
+        this.document.documentElement.scrollTop || this.document.body.scrollTop
+    let totopBtn = this.document.getElementById('back-to-top')
+    if (scrollTop < 200) {
+        totopBtn.style.display = 'none'
+    } else {
+        totopBtn.style.display = 'inline'
+        totopBtn.addEventListener('click', backToTop, false)
+    }
+    }
+</script>
+
 <script>
     (function () {
         const customFont = document.createElement('link');
@@ -290,6 +317,93 @@
         document.head.appendChild(customFont);
     }());
 </script>
+
+<a href="#" id="back-to-top" title="Back to top"></a>
+
+
+<style>
+#back-to-top {
+    display: none;
+    position: fixed;
+    bottom: 5px;
+    right: 15px;
+    width: 40px;  
+    height: 40px;  
+    border-radius: 50%;  
+    background-color: var(--body-background);
+    box-shadow: var(--shadow-l2);
+    font-size: 20px;  
+    text-align: center;
+    line-height: 38px;  
+    cursor: pointer;
+    transition:
+    transform 0.3s ease,
+    background-color 0.3s ease;  
+}
+
+#back-to-top:before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    transform: rotate(135deg);
+    height: 8px;  
+    width: 8px;  
+    border-width: 0 0 2px 2px;
+    border-color: var(--back-to-top-color);
+    border-style: solid;
+}
+
+#back-to-top:hover {
+    transform: scale(1.1);  
+    background-color: var(--accent-background);  
+}
+
+#back-to-top:hover:before {
+    border-color: var(--accent-color);  
+}
+
+ 
+@media screen and (max-width: 768px) {
+    #back-to-top {
+    bottom: 5px;
+    right: var(--container-padding);
+    width: 30px;  
+    height: 30px;
+    font-size: 16px;
+    line-height: 32px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    #back-to-top {
+    bottom: 10px;
+    right: 20px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    #back-to-top {
+    bottom: 15px;
+    right: 25px;
+    }
+}
+
+@media screen and (min-width: 1536px) {
+    #back-to-top {
+    bottom: 15px;
+    right: 25px;
+     
+    }
+}
+</style>
+<script>
+    (function(){var w=window;if(w.ChannelIO){return w.console.error("ChannelIO script included twice.");}var ch=function(){ch.c(arguments);};ch.q=[];ch.c=function(args){ch.q.push(args);};w.ChannelIO=ch;function l(){if(w.ChannelIOInitialized){return;}w.ChannelIOInitialized=true;var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="https://cdn.channel.io/plugin/ch-plugin-web.js";var x=document.getElementsByTagName("script")[0];if(x.parentNode){x.parentNode.insertBefore(s,x);}}if(document.readyState==="complete"){l();}else{w.addEventListener("DOMContentLoaded",l);w.addEventListener("load",l);}})();
+  
+    ChannelIO('boot', {
+      "pluginKey": "4280222a-4ba1-45f9-a3f1-7284318c9e9b"
+    });
+  </script>
+
 
     </body>
 </html>
