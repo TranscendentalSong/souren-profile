@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Personal on Souren&#39;s Journal</title>
+        <link>https://souren.github.io/souren-profile/tags/personal/</link>
+        <description>Recent content in Personal on Souren&#39;s Journal</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
+        <webMaster>souren@example.com (Souren Ghosh)</webMaster>
+        <lastBuildDate>Wed, 15 Oct 2025 10:00:00 +0530</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/tags/personal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Welcome to My Blog — A Fresh Beginning</title>
+        <link>https://souren.github.io/souren-profile/root/first-post.md/</link>
+        <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>https://souren.github.io/souren-profile/root/first-post.md/</guid>
+        <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog 🌱
+&lt;/h1&gt;&lt;p&gt;Hey there — and welcome!&lt;br&gt;
+This is the very first post on my Hugo-powered blog, and I couldn’t be more excited to finally hit &lt;strong&gt;publish&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve been meaning to start this space for a while — a place where I can write, explore ideas, and share what I’m learning along the way. Whether it’s about technology, engineering, personal projects, or just random reflections, this blog is going to be my digital notebook — open to anyone curious enough to read.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-i-started-this-blog&#34;&gt;Why I Started This Blog
+&lt;/h2&gt;&lt;p&gt;There’s something powerful about putting thoughts into words. Writing forces clarity, and clarity builds growth.&lt;br&gt;
+I wanted a clean, fast, and minimal platform — so &lt;strong&gt;Hugo&lt;/strong&gt; felt like the perfect fit. It’s lightweight, Markdown-based, and gives me full control over how my content looks and behaves.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-you-can-expect-here&#34;&gt;What You Can Expect Here
+&lt;/h2&gt;&lt;p&gt;Over time, I plan to post about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Tech experiments &amp;amp; coding projects&lt;/li&gt;
+&lt;li&gt;⚙️ Engineering, electronics, and system design&lt;/li&gt;
+&lt;li&gt;📚 Notes from books, ideas, and experiences&lt;/li&gt;
+&lt;li&gt;💡 Occasional deep dives into things I find fascinating&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This blog isn’t about perfection — it’s about &lt;strong&gt;progress&lt;/strong&gt; and &lt;strong&gt;sharing&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;a-note-on-simplicity&#34;&gt;A Note on Simplicity
+&lt;/h2&gt;&lt;p&gt;In a world full of noisy feeds and endless scrolling, I want this site to feel different —&lt;br&gt;
+a quiet, thoughtful space to pause, learn, and build together.&lt;/p&gt;
+&lt;p&gt;If you’re reading this, you’re already part of that journey. So, thank you.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;until-next-time-&#34;&gt;Until Next Time 👋
+&lt;/h2&gt;&lt;p&gt;I’ll be posting regularly, so stay tuned for updates.&lt;br&gt;
+If you’d like to connect or share ideas, feel free to drop a comment or reach out through the contact page.&lt;/p&gt;
+&lt;p&gt;See you in the next post —&lt;br&gt;
+&lt;strong&gt;Souren&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The first step doesn’t have to be perfect — it just has to be taken.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
