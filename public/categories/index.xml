@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Souren&#39;s Journal</title>
-        <link>http://localhost:1313/souren-profile/categories/</link>
+        <link>https://souren.github.io/souren-profile/categories/</link>
         <description>Recent content in Categories on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/souren-profile/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0530</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Engineering</title>
-        <link>http://localhost:1313/souren-profile/categories/engineering/</link>
+        <link>https://souren.github.io/souren-profile/categories/engineering/</link>
         <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/categories/engineering/</guid>
+        <guid>https://souren.github.io/souren-profile/categories/engineering/</guid>
         <description></description>
         </item>
         <item>
         <title>Philosophy</title>
-        <link>http://localhost:1313/souren-profile/categories/philosophy/</link>
+        <link>https://souren.github.io/souren-profile/categories/philosophy/</link>
         <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/categories/philosophy/</guid>
+        <guid>https://souren.github.io/souren-profile/categories/philosophy/</guid>
         <description></description>
         </item>
         <item>
         <title>Introduction</title>
-        <link>http://localhost:1313/souren-profile/categories/introduction/</link>
+        <link>https://souren.github.io/souren-profile/categories/introduction/</link>
         <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>http://localhost:1313/souren-profile/categories/introduction/</guid>
+        <guid>https://souren.github.io/souren-profile/categories/introduction/</guid>
         <description></description>
         </item>
         
