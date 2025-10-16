@@ -816,3 +816,16 @@ div.loaded div.spinner-box {
       transform: rotate(-315deg);
   }
 }
+
+html::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("https://ik.imagekit.io/7g2tgjtpt/souren-reduced.png?updatedAt=1760355002999"); /* Put image in static/images/bg.jpg */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.15;
+  z-index: -1;
+  pointer-events: none;
+}
