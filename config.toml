@@ -137,12 +137,7 @@ theme = "hugo-theme-stack"
     name = "✉️ Contact"
     url = "/contact/"
     weight = 7
-  [[menu.main]]
-    identifier = "archives"
-    name = "🗃️ Archives"
-    url = "/archives/"
-    weight = 70
-
+  
 [markup]
   [markup.tableOfContents]
     startLevel = 2   # first heading level to include
