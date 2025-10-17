@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Introduction on Souren&#39;s Journal</title>
-        <link>https://souren.github.io/souren-profile/categories/introduction/</link>
+        <link>http://localhost:37563/souren-profile/categories/introduction/</link>
         <description>Recent content in Introduction on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Wed, 15 Oct 2025 10:00:00 +0530</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/categories/introduction/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Oct 2025 10:00:00 +0530</lastBuildDate><atom:link href="http://localhost:37563/souren-profile/categories/introduction/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Welcome to My Blog — A Fresh Beginning</title>
-        <link>https://souren.github.io/souren-profile/root/first-post.md/</link>
+        <link>http://localhost:37563/souren-profile/p/welcome-to-my-blog-a-fresh-beginning/</link>
         <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>https://souren.github.io/souren-profile/root/first-post.md/</guid>
+        <guid>http://localhost:37563/souren-profile/p/welcome-to-my-blog-a-fresh-beginning/</guid>
         <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog 🌱
 &lt;/h1&gt;&lt;p&gt;Hey there — and welcome!&lt;br&gt;
 This is the very first post on my Hugo-powered blog, and I couldn’t be more excited to finally hit &lt;strong&gt;publish&lt;/strong&gt;.&lt;/p&gt;

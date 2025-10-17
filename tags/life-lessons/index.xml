@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Life-Lessons on Souren&#39;s Journal</title>
-        <link>https://souren.github.io/souren-profile/tags/life-lessons/</link>
+        <link>http://localhost:37563/souren-profile/tags/life-lessons/</link>
         <description>Recent content in Life-Lessons on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Wed, 15 Oct 2025 11:00:00 +0530</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/tags/life-lessons/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Oct 2025 11:00:00 +0530</lastBuildDate><atom:link href="http://localhost:37563/souren-profile/tags/life-lessons/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Frugality of Life — Finding Grace in Simplicity</title>
-        <link>https://souren.github.io/souren-profile/root/second-post.md/</link>
+        <link>http://localhost:37563/souren-profile/p/the-frugality-of-life-finding-grace-in-simplicity/</link>
         <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>https://souren.github.io/souren-profile/root/second-post.md/</guid>
+        <guid>http://localhost:37563/souren-profile/p/the-frugality-of-life-finding-grace-in-simplicity/</guid>
         <description>&lt;h1 id=&#34;the-frugality-of-life-&#34;&gt;The Frugality of Life 🌿
 &lt;/h1&gt;&lt;p&gt;We live in a world that constantly whispers, &lt;em&gt;“More.”&lt;/em&gt;&lt;br&gt;
 More things. More success. More validation.&lt;br&gt;

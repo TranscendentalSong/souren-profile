@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Engineering on Souren&#39;s Journal</title>
-        <link>https://souren.github.io/souren-profile/categories/engineering/</link>
+        <link>http://localhost:37563/souren-profile/categories/engineering/</link>
         <description>Recent content in Engineering on Souren&#39;s Journal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
         <webMaster>souren@example.com (Souren Ghosh)</webMaster>
-        <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0530</lastBuildDate><atom:link href="https://souren.github.io/souren-profile/categories/engineering/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0530</lastBuildDate><atom:link href="http://localhost:37563/souren-profile/categories/engineering/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Understanding Electrical Measurements — The Language of Circuits</title>
-        <link>https://souren.github.io/souren-profile/labs/electrical/basic/introduction/</link>
+        <link>http://localhost:37563/souren-profile/understanding-electrical-measurements-the-language-of-circuits/</link>
         <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
         <author>souren@example.com (Souren Ghosh)</author>
-        <guid>https://souren.github.io/souren-profile/labs/electrical/basic/introduction/</guid>
+        <guid>http://localhost:37563/souren-profile/understanding-electrical-measurements-the-language-of-circuits/</guid>
         <description>&lt;h1 id=&#34;understanding-electrical-measurements-&#34;&gt;Understanding Electrical Measurements ⚡
 &lt;/h1&gt;&lt;p&gt;Electricity itself is invisible — we cannot see voltage, current, or resistance directly.&lt;br&gt;
 Yet through &lt;strong&gt;measurement&lt;/strong&gt;, we give shape to this invisible force, turning it into something we can control, predict, and harness.&lt;/p&gt;
