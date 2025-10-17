@@ -15,7 +15,7 @@ theme = "hugo-theme-stack"
   ShowCodeCopyButtons = true
   ShowBreadCrumbs = true
 
-  mainSections = ["root"]
+  mainSections = ["root", "labs"]
 
 
   [params.author]
@@ -42,9 +42,11 @@ theme = "hugo-theme-stack"
   [params.widgets]
     homepage = [
       { type = "search" },
-      { type = "archives", params = { limit = 5 } },
+      { type = "archives", params = { limit = 10 } },
       { type = "categories", params = { limit = 10 } },
     ]
+  [[params.widgets.page]]
+    type = "toc"
   [params.footer]
     since = 2025
     poweredby = false
@@ -52,7 +54,7 @@ theme = "hugo-theme-stack"
     text = "© 2025 Souren Ghosh — Built with ❤️ using Hugo + Stack"
 
   [params.defaultImage.opengraph]
-    enabled = false
+    enabled = true
     local = false
     src = ""
 
@@ -66,7 +68,7 @@ theme = "hugo-theme-stack"
   [params.imageProcessing.content]
     enabled = true
   [params.article]
-    math = false
+    math = true
     readingTime = true
 
   [params.article.license]
@@ -79,6 +81,13 @@ theme = "hugo-theme-stack"
     url = "https://github.com/CaiJimmy/hugo-theme-stack"
     [menu.social.params]
         icon = "brand-github"
+
+  [[menu.social]]
+    identifier = "Linkedin"
+    name = "Linkedin"
+    url = "https://twitter.com"
+    [menu.social.params]
+      icon = "brand-linkedin"
 
   # Home
   #[[menu.main]]
@@ -128,3 +137,37 @@ theme = "hugo-theme-stack"
     name = "✉️ Contact"
     url = "/contact/"
     weight = 7
+  [[menu.main]]
+    identifier = "archives"
+    name = "🗃️ Archives"
+    url = "/archives/"
+    weight = 70
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2   # first heading level to include
+    endLevel = 4     # last heading level to include
+    ordered = true
+  [markup.goldmark.renderer]
+    unsafe = true
+
+  [markup.goldmark.extensions.passthrough]
+    enable = true
+
+  # LaTeX math support
+  # https://gohugo.io/content-management/mathematics/
+  [markup.goldmark.extensions.passthrough.delimiters]
+    block = [['\[', '\]'], ['$$', '$$']]
+    inline = [['\(', '\)']]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    tabWidth = 4
+
+[permalinks]
+  root = "/p/:slug/"
+  labs = "/:slug/" #link can be modified
