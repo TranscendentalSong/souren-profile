@@ -829,3 +829,43 @@ html::before {
   z-index: -1;
   pointer-events: none;
 }
+
+
+// =========================================================================================================
+// make image  on click change and dimension reduced
+// tag: image-zoom-start
+// =========================================================================================================
+body {
+  margin-bottom: 10em;
+}
+
+p:has(.ruler) {
+  background: red;
+}
+
+.ruler {
+  background: orange;
+  color: white;
+  width: 500px;
+  display: inline-block;
+}
+
+img {  
+  transition: transform 0.25s ease;
+  cursor: zoom-in;
+  display: block;
+  margin: 1em auto;  /* centers the image horizontally */
+  position: relative;
+  z-index: 0; /* base level */
+}
+
+
+img.zoomed {
+  cursor: zoom-out;
+  position: relative;
+  z-index: 9999; /* bring it above everything */
+}
+
+// =========================================================================================================
+// tag: image-zoom-end
+// =========================================================================================================
