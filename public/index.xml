@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Souren&#39;s Journal</title>
+        <link>http://localhost:41609/souren-profile/</link>
+        <description>Recent content on Souren&#39;s Journal</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
+        <webMaster>souren@example.com (Souren Ghosh)</webMaster>
+        <lastBuildDate>Sat, 01 Nov 2025 13:00:00 +0530</lastBuildDate><atom:link href="http://localhost:41609/souren-profile/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Continuity Test</title>
+        <link>http://localhost:41609/souren-profile/continuity-test/</link>
+        <pubDate>Sat, 01 Nov 2025 13:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/continuity-test/</guid>
+        <description>&lt;img src="https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/cover.png" alt="Featured image of post Continuity Test" /&gt;&lt;h1 id=&#34;about-continuity-test&#34;&gt;About Continuity Test
+&lt;/h1&gt;&lt;p&gt;Before starting out to make circuit, it&amp;rsquo;s crucial to check or verify component integrity&lt;/p&gt;
+&lt;h2 id=&#34;multimeter-setup&#34;&gt;Multimeter setup
+&lt;/h2&gt;&lt;p&gt;coming soon&lt;/p&gt;
+&lt;h2 id=&#34;slide-switch&#34;&gt;Slide switch
+&lt;/h2&gt;&lt;p&gt;Continuity test of spdt slide switch&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/10_continuity-testing-spdt-slid-switch.jpg&#39; style=&#34;width: 200px;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Spdt slide switch led circuit&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/11_resistor-slidswitch-simple-circuit.jpg&#39; style=&#34;width: 200px;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;relay&#34;&gt;Relay
+&lt;/h2&gt;&lt;p&gt;Continuity Test of relay&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Continuity Test</title>
+        <link>http://localhost:41609/souren-profile/continuity-test/</link>
+        <pubDate>Sat, 01 Nov 2025 13:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/continuity-test/</guid>
+        <description>&lt;img src="https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/cover.png" alt="Featured image of post Continuity Test" /&gt;&lt;h1 id=&#34;about-continuity-test&#34;&gt;About Continuity Test
+&lt;/h1&gt;&lt;p&gt;Before starting out to make circuit, it&amp;rsquo;s crucial to check or verify component integrity&lt;/p&gt;
+&lt;h2 id=&#34;multimeter-setup&#34;&gt;Multimeter setup
+&lt;/h2&gt;&lt;p&gt;coming soon&lt;/p&gt;
+&lt;h2 id=&#34;slide-switch&#34;&gt;Slide switch
+&lt;/h2&gt;&lt;p&gt;Continuity test of spdt slide switch&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/10_continuity-testing-spdt-slid-switch.jpg&#39; style=&#34;width: 200px;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Spdt slide switch led circuit&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/11_resistor-slidswitch-simple-circuit.jpg&#39; style=&#34;width: 200px;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;relay&#34;&gt;Relay
+&lt;/h2&gt;&lt;p&gt;Continuity Test of relay&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Understanding Electrical Measurements — The Language of Circuits</title>
+        <link>http://localhost:41609/souren-profile/understanding-electrical-measurements-the-language-of-circuits/</link>
+        <pubDate>Wed, 15 Oct 2025 12:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/understanding-electrical-measurements-the-language-of-circuits/</guid>
+        <description>&lt;h1 id=&#34;understanding-electrical-measurements-&#34;&gt;Understanding Electrical Measurements ⚡
+&lt;/h1&gt;&lt;p&gt;Electricity itself is invisible — we cannot see voltage, current, or resistance directly.&lt;br&gt;
+Yet through &lt;strong&gt;measurement&lt;/strong&gt;, we give shape to this invisible force, turning it into something we can control, predict, and harness.&lt;/p&gt;
+&lt;p&gt;Electrical measurements are, quite literally, the &lt;strong&gt;language of circuits&lt;/strong&gt;.&lt;br&gt;
+They tell us what a system is doing, how it behaves under load, and whether it’s alive or silent.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-electrical-measurement-matters&#34;&gt;Why Electrical Measurement Matters
+&lt;/h2&gt;&lt;p&gt;Every electrical or electronic project — from the simplest LED circuit to advanced biomedical instruments — depends on &lt;strong&gt;accurate measurement&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Measurement allows us to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diagnose faults&lt;/li&gt;
+&lt;li&gt;Validate designs&lt;/li&gt;
+&lt;li&gt;Calibrate instruments&lt;/li&gt;
+&lt;li&gt;Understand physical behavior (like voltage drops, power loss, or signal distortion)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Without measurement, engineering would be little more than guessing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-three-fundamental-quantities&#34;&gt;The Three Fundamental Quantities
+&lt;/h2&gt;&lt;p&gt;At the heart of all electrical measurement lie &lt;strong&gt;three primary quantities&lt;/strong&gt;:&lt;/p&gt;
+&lt;h3 id=&#34;-voltage-v&#34;&gt;⚡ Voltage (V)
+&lt;/h3&gt;&lt;p&gt;The &lt;em&gt;potential difference&lt;/em&gt; between two points — the electrical &amp;ldquo;pressure&amp;rdquo; that pushes charges through a circuit.&lt;br&gt;
+Measured in &lt;strong&gt;volts (V)&lt;/strong&gt; using a &lt;strong&gt;voltmeter&lt;/strong&gt; or the voltage mode of a &lt;strong&gt;multimeter&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Think of voltage as the &amp;ldquo;push&amp;rdquo; that drives electrons.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-current-i&#34;&gt;🔄 Current (I)
+&lt;/h3&gt;&lt;p&gt;The &lt;em&gt;flow of electric charge&lt;/em&gt; through a conductor — measured in &lt;strong&gt;amperes (A)&lt;/strong&gt;.&lt;br&gt;
+Current tells us how much charge moves per second.&lt;/p&gt;
+&lt;p&gt;Measured with an &lt;strong&gt;ammeter&lt;/strong&gt;, or indirectly using a &lt;strong&gt;shunt resistor&lt;/strong&gt; and voltage drop.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Current is like the amount of water flowing through a pipe per second.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-resistance-r&#34;&gt;🧱 Resistance (R)
+&lt;/h3&gt;&lt;p&gt;The opposition offered by material to current flow — measured in &lt;strong&gt;ohms (Ω)&lt;/strong&gt;.&lt;br&gt;
+Every conductor, even a wire, resists current slightly.&lt;/p&gt;
+&lt;p&gt;Measured using an &lt;strong&gt;ohmmeter&lt;/strong&gt; or the resistance mode of a &lt;strong&gt;multimeter&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Resistance determines how easily electricity can move through a path.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;instruments-of-measurement&#34;&gt;Instruments of Measurement
+&lt;/h2&gt;&lt;p&gt;Modern engineers rely on several key instruments:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Instrument&lt;/th&gt;
+          &lt;th&gt;Measures&lt;/th&gt;
+          &lt;th&gt;Typical Range&lt;/th&gt;
+          &lt;th&gt;Notes&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Multimeter&lt;/td&gt;
+          &lt;td&gt;Voltage, Current, Resistance&lt;/td&gt;
+          &lt;td&gt;Varies&lt;/td&gt;
+          &lt;td&gt;Essential all-in-one tool&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Oscilloscope&lt;/td&gt;
+          &lt;td&gt;Time-varying Voltage&lt;/td&gt;
+          &lt;td&gt;mV to hundreds of V&lt;/td&gt;
+          &lt;td&gt;Visualizes waveforms&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wattmeter&lt;/td&gt;
+          &lt;td&gt;Power&lt;/td&gt;
+          &lt;td&gt;Watts (W)&lt;/td&gt;
+          &lt;td&gt;Useful in AC systems&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;LCR Meter&lt;/td&gt;
+          &lt;td&gt;Inductance, Capacitance, Resistance&lt;/td&gt;
+          &lt;td&gt;µH, µF, Ω&lt;/td&gt;
+          &lt;td&gt;For component characterization&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Function Generator&lt;/td&gt;
+          &lt;td&gt;(Not measurement, but signal source)&lt;/td&gt;
+          &lt;td&gt;Hz–MHz&lt;/td&gt;
+          &lt;td&gt;Used to test responses&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;measurement-in-the-real-world&#34;&gt;Measurement in the Real World
+&lt;/h2&gt;&lt;p&gt;In practical circuits, &lt;strong&gt;measurement technique&lt;/strong&gt; matters as much as the instrument.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Always measure &lt;strong&gt;voltage in parallel&lt;/strong&gt;, &lt;strong&gt;current in series&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Consider the &lt;strong&gt;instrument’s internal resistance&lt;/strong&gt; — it can affect readings.&lt;/li&gt;
+&lt;li&gt;Use &lt;strong&gt;differential probes&lt;/strong&gt; for high-voltage or floating measurements.&lt;/li&gt;
+&lt;li&gt;In high-precision systems, &lt;strong&gt;calibration&lt;/strong&gt; and &lt;strong&gt;shielding&lt;/strong&gt; are crucial.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-beauty-of-measurement&#34;&gt;The Beauty of Measurement
+&lt;/h2&gt;&lt;p&gt;Electrical measurement isn’t just technical — it’s poetic in a way.&lt;br&gt;
+You’re quantifying something that cannot be seen, only felt through instruments.&lt;br&gt;
+Each reading tells a story — of motion, resistance, balance, and transformation.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“To measure is to know. If you cannot measure it, you cannot improve it.”&lt;/em&gt;&lt;br&gt;
+— Lord Kelvin&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;looking-ahead-&#34;&gt;Looking Ahead 🔭
+&lt;/h2&gt;&lt;p&gt;In upcoming articles, I’ll explore:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;theory and use of bridges&lt;/strong&gt; (Wheatstone, Kelvin, Maxwell)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Error and uncertainty analysis&lt;/strong&gt; in instrumentation&lt;/li&gt;
+&lt;li&gt;How to &lt;strong&gt;design and calibrate measurement systems&lt;/strong&gt; for embedded and biomedical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned — because the journey from &lt;em&gt;volts and amps&lt;/em&gt; to &lt;em&gt;insight and control&lt;/em&gt; is just beginnin&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The Frugality of Life — Finding Grace in Simplicity</title>
+        <link>http://localhost:41609/souren-profile/p/the-frugality-of-life-finding-grace-in-simplicity/</link>
+        <pubDate>Wed, 15 Oct 2025 11:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/p/the-frugality-of-life-finding-grace-in-simplicity/</guid>
+        <description>&lt;h1 id=&#34;the-frugality-of-life-&#34;&gt;The Frugality of Life 🌿
+&lt;/h1&gt;&lt;p&gt;We live in a world that constantly whispers, &lt;em&gt;“More.”&lt;/em&gt;&lt;br&gt;
+More things. More success. More validation.&lt;br&gt;
+But what if the secret to a fulfilling life lies not in adding, but in &lt;strong&gt;subtracting&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;Frugality isn’t about deprivation. It’s about &lt;strong&gt;deliberation&lt;/strong&gt; — choosing consciously where our time, energy, and money flow. It’s about aligning our lives with what actually brings peace and purpose, rather than chasing what sparkles for a moment and fades the next.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-essence-of-frugality&#34;&gt;The Essence of Frugality
+&lt;/h2&gt;&lt;p&gt;Frugality begins with gratitude.&lt;br&gt;
+When we recognize what we already have — the warmth of morning light, a calm cup of tea, a kind word — we stop searching frantically for more.&lt;br&gt;
+We start to &lt;strong&gt;see abundance in simplicity&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Living frugally teaches us that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Every possession has a hidden cost — of space, attention, and care.&lt;/li&gt;
+&lt;li&gt;Every purchase is a vote for the kind of world we want to build.&lt;/li&gt;
+&lt;li&gt;Every act of restraint sharpens appreciation for what remains.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;beyond-money&#34;&gt;Beyond Money
+&lt;/h2&gt;&lt;p&gt;To be frugal in life is not just to spend less — it’s to &lt;strong&gt;waste less&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Less time in distraction.&lt;/li&gt;
+&lt;li&gt;Less energy on resentment.&lt;/li&gt;
+&lt;li&gt;Less emotion on things outside our control.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s an act of quiet rebellion against the chaos of consumption.&lt;br&gt;
+A way to reclaim sovereignty over our own minds.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-joy-of-enough&#34;&gt;The Joy of Enough
+&lt;/h2&gt;&lt;p&gt;There’s a quiet joy in realizing that &lt;em&gt;enough&lt;/em&gt; is a moving boundary we can choose to stop chasing.&lt;br&gt;
+Enough clothes.&lt;br&gt;
+Enough gadgets.&lt;br&gt;
+Enough goals.&lt;/p&gt;
+&lt;p&gt;When “enough” settles in the heart, contentment follows naturally.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;closing-thoughts-&#34;&gt;Closing Thoughts 🌸
+&lt;/h2&gt;&lt;p&gt;Frugality isn’t an aesthetic — it’s a mindset.&lt;br&gt;
+It’s not about living less, but about living &lt;strong&gt;lightly&lt;/strong&gt;, with clarity and purpose.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The cost of a thing is the amount of what I will call life which is required to be exchanged for it.”&lt;/em&gt;&lt;br&gt;
+— Henry David Thoreau&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here’s to a life not cluttered by possessions, but enriched by perspective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;– Souren&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Welcome to My Blog — A Fresh Beginning</title>
+        <link>http://localhost:41609/souren-profile/p/welcome-to-my-blog-a-fresh-beginning/</link>
+        <pubDate>Wed, 15 Oct 2025 10:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/p/welcome-to-my-blog-a-fresh-beginning/</guid>
+        <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog 🌱
+&lt;/h1&gt;&lt;p&gt;Hey there — and welcome!&lt;br&gt;
+This is the very first post on my Hugo-powered blog, and I couldn’t be more excited to finally hit &lt;strong&gt;publish&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve been meaning to start this space for a while — a place where I can write, explore ideas, and share what I’m learning along the way. Whether it’s about technology, engineering, personal projects, or just random reflections, this blog is going to be my digital notebook — open to anyone curious enough to read.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-i-started-this-blog&#34;&gt;Why I Started This Blog
+&lt;/h2&gt;&lt;p&gt;There’s something powerful about putting thoughts into words. Writing forces clarity, and clarity builds growth.&lt;br&gt;
+I wanted a clean, fast, and minimal platform — so &lt;strong&gt;Hugo&lt;/strong&gt; felt like the perfect fit. It’s lightweight, Markdown-based, and gives me full control over how my content looks and behaves.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-you-can-expect-here&#34;&gt;What You Can Expect Here
+&lt;/h2&gt;&lt;p&gt;Over time, I plan to post about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Tech experiments &amp;amp; coding projects&lt;/li&gt;
+&lt;li&gt;⚙️ Engineering, electronics, and system design&lt;/li&gt;
+&lt;li&gt;📚 Notes from books, ideas, and experiences&lt;/li&gt;
+&lt;li&gt;💡 Occasional deep dives into things I find fascinating&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This blog isn’t about perfection — it’s about &lt;strong&gt;progress&lt;/strong&gt; and &lt;strong&gt;sharing&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;a-note-on-simplicity&#34;&gt;A Note on Simplicity
+&lt;/h2&gt;&lt;p&gt;In a world full of noisy feeds and endless scrolling, I want this site to feel different —&lt;br&gt;
+a quiet, thoughtful space to pause, learn, and build together.&lt;/p&gt;
+&lt;p&gt;If you’re reading this, you’re already part of that journey. So, thank you.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;until-next-time-&#34;&gt;Until Next Time 👋
+&lt;/h2&gt;&lt;p&gt;I’ll be posting regularly, so stay tuned for updates.&lt;br&gt;
+If you’d like to connect or share ideas, feel free to drop a comment or reach out through the contact page.&lt;/p&gt;
+&lt;p&gt;See you in the next post —&lt;br&gt;
+&lt;strong&gt;Souren&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The first step doesn’t have to be perfect — it just has to be taken.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>RC Circuit Demo</title>
+        <link>http://localhost:41609/souren-profile/rc-circuit-demo/</link>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/rc-circuit-demo/</guid>
+        <description>&lt;h1 id=&#34;rc-circuit-demo&#34;&gt;RC Circuit Demo
+&lt;/h1&gt;&lt;p&gt;This page demonstrates a simple &lt;strong&gt;RC Low-Pass Filter&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-description&#34;&gt;Circuit Description
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Resistor (R):&lt;/strong&gt; 1 kΩ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacitor (C):&lt;/strong&gt; 0.1 µF&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input:&lt;/strong&gt; Vin (signal source, e.g., function generator)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Output:&lt;/strong&gt; Vout measured across the capacitor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The circuit allows &lt;strong&gt;low-frequency signals to pass&lt;/strong&gt; while attenuating high-frequency signals.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-diagram&#34;&gt;Circuit Diagram
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>RC Circuit Demo</title>
+        <link>http://localhost:41609/souren-profile/rc-circuit-demo/</link>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/rc-circuit-demo/</guid>
+        <description>&lt;h1 id=&#34;rc-circuit-demo&#34;&gt;RC Circuit Demo
+&lt;/h1&gt;&lt;p&gt;This page demonstrates a simple &lt;strong&gt;RC Low-Pass Filter&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-description&#34;&gt;Circuit Description
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Resistor (R):&lt;/strong&gt; 1 kΩ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacitor (C):&lt;/strong&gt; 0.1 µF&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input:&lt;/strong&gt; Vin (signal source, e.g., function generator)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Output:&lt;/strong&gt; Vout measured across the capacitor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The circuit allows &lt;strong&gt;low-frequency signals to pass&lt;/strong&gt; while attenuating high-frequency signals.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-diagram&#34;&gt;Circuit Diagram
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>Resistor Circuit Demos</title>
+        <link>http://localhost:41609/souren-profile/resistor-circuit-demos/</link>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/resistor-circuit-demos/</guid>
+        <description>&lt;h1 id=&#34;resistor-circuit-demos&#34;&gt;Resistor Circuit Demos
+&lt;/h1&gt;&lt;p&gt;This page demonstrates &lt;strong&gt;simple resistor-only circuits&lt;/strong&gt;, including voltage dividers, current limiting, and Wheatstone bridge examples. All circuits are safe and suitable for breadboard experiments.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-voltage-divider&#34;&gt;1. Voltage Divider
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Divide a voltage into smaller portions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Resistor R1: 1 kΩ&lt;/li&gt;
+&lt;li&gt;Resistor R2: 1 kΩ&lt;/li&gt;
+&lt;li&gt;Input voltage: Vin&lt;/li&gt;
+&lt;li&gt;Output voltage: Vout&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Circuit Diagram:&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>RLC Circuit Demo</title>
+        <link>http://localhost:41609/souren-profile/rlc-circuit-demo/</link>
+        <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/rlc-circuit-demo/</guid>
+        <description>&lt;h1 id=&#34;rlc-circuit-demo&#34;&gt;RLC Circuit Demo
+&lt;/h1&gt;&lt;p&gt;This page demonstrates a &lt;strong&gt;Series RLC Circuit&lt;/strong&gt; and resonance phenomenon.&lt;/p&gt;
+&lt;h2 id=&#34;circuit-description&#34;&gt;Circuit Description
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Resistor (R):&lt;/strong&gt; 100 Ω&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inductor (L):&lt;/strong&gt; 10 mH&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacitor (C):&lt;/strong&gt; 1 µF&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input:&lt;/strong&gt; Vin (AC signal)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Output:&lt;/strong&gt; Measured across the series combination&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;circuit-diagram&#34;&gt;Circuit Diagram
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>Math Typesetting</title>
+        <link>http://localhost:41609/souren-profile/p/math-typesetting/</link>
+        <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/p/math-typesetting/</guid>
+        <description>&lt;p&gt;Stack has built-in support for math typesetting using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;KaTeX&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It&amp;rsquo;s not enabled by default side-wide,&lt;/strong&gt; but you can enable it for individual posts by adding &lt;code&gt;math: true&lt;/code&gt; to the front matter. Or you can enable it side-wide by adding &lt;code&gt;math = true&lt;/code&gt; to the &lt;code&gt;params.article&lt;/code&gt; section in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;inline-math&#34;&gt;Inline math
+&lt;/h2&gt;&lt;p&gt;This is an inline mathematical expression: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;block-math&#34;&gt;Block math
+&lt;/h2&gt;&lt;p&gt;$$&lt;/p&gt;
+&lt;p&gt;\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }&lt;/p&gt;
+&lt;p&gt;$$&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$$
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$$
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;$$&lt;/p&gt;
+&lt;p&gt;f(x) = \int_{-\infty}^\infty\hat f(\xi),e^{2 \pi i \xi x},d\xi&lt;/p&gt;
+&lt;p&gt;$$&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$$
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$$
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>🗃️ Archives</title>
+        <link>http://localhost:41609/souren-profile/page/archives/</link>
+        <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>🔍 Search</title>
+        <link>http://localhost:41609/souren-profile/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/page/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>🔗 Links</title>
+        <link>http://localhost:41609/souren-profile/page/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/page/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

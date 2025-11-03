@@ -2,6 +2,7 @@ baseURL = "https://souren.github.io/souren-profile/"
 languageCode = "en-us"
 title = "Souren's Journal"
 theme = "hugo-theme-stack"
+googleAnalytics = "G-P4K5LWV8VD"
 
 [pagination]
   pagerSize = 2

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Practical Resistor, Led and Switching Circuits on Souren&#39;s Journal</title>
+        <link>http://localhost:41609/souren-profile/labs/electrical/r-led-circuits/</link>
+        <description>Recent content in Practical Resistor, Led and Switching Circuits on Souren&#39;s Journal</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <managingEditor>souren@example.com (Souren Ghosh)</managingEditor>
+        <webMaster>souren@example.com (Souren Ghosh)</webMaster>
+        <lastBuildDate>Sat, 01 Nov 2025 13:00:00 +0530</lastBuildDate><atom:link href="http://localhost:41609/souren-profile/labs/electrical/r-led-circuits/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Continuity Test</title>
+        <link>http://localhost:41609/souren-profile/continuity-test/</link>
+        <pubDate>Sat, 01 Nov 2025 13:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/continuity-test/</guid>
+        <description>&lt;img src="https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/cover.png" alt="Featured image of post Continuity Test" /&gt;&lt;h1 id=&#34;about-continuity-test&#34;&gt;About Continuity Test
+&lt;/h1&gt;&lt;p&gt;Before starting out to make circuit, it&amp;rsquo;s crucial to check or verify component integrity&lt;/p&gt;
+&lt;h2 id=&#34;multimeter-setup&#34;&gt;Multimeter setup
+&lt;/h2&gt;&lt;p&gt;coming soon&lt;/p&gt;
+&lt;h2 id=&#34;slide-switch&#34;&gt;Slide switch
+&lt;/h2&gt;&lt;p&gt;Continuity test of spdt slide switch&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/10_continuity-testing-spdt-slid-switch.jpg&#39; style=&#34;width: 200px;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Spdt slide switch led circuit&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/11_resistor-slidswitch-simple-circuit.jpg&#39; style=&#34;width: 200px;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;relay&#34;&gt;Relay
+&lt;/h2&gt;&lt;p&gt;Continuity Test of relay&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Continuity Test</title>
+        <link>http://localhost:41609/souren-profile/continuity-test/</link>
+        <pubDate>Sat, 01 Nov 2025 13:00:00 +0530</pubDate>
+        <author>souren@example.com (Souren Ghosh)</author>
+        <guid>http://localhost:41609/souren-profile/continuity-test/</guid>
+        <description>&lt;img src="https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/cover.png" alt="Featured image of post Continuity Test" /&gt;&lt;h1 id=&#34;about-continuity-test&#34;&gt;About Continuity Test
+&lt;/h1&gt;&lt;p&gt;Before starting out to make circuit, it&amp;rsquo;s crucial to check or verify component integrity&lt;/p&gt;
+&lt;h2 id=&#34;multimeter-setup&#34;&gt;Multimeter setup
+&lt;/h2&gt;&lt;p&gt;coming soon&lt;/p&gt;
+&lt;h2 id=&#34;slide-switch&#34;&gt;Slide switch
+&lt;/h2&gt;&lt;p&gt;Continuity test of spdt slide switch&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/10_continuity-testing-spdt-slid-switch.jpg&#39; style=&#34;width: 200px;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Spdt slide switch led circuit&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://souren-jr-public-bucket-1a5b4e6d.s3.us-east-1.amazonaws.com/public/electrical/basics/11_resistor-slidswitch-simple-circuit.jpg&#39; style=&#34;width: 200px;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;relay&#34;&gt;Relay
+&lt;/h2&gt;&lt;p&gt;Continuity Test of relay&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
